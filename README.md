@@ -6,7 +6,7 @@ Evolua seu personagem durante sua jornada, consiga os materiais e experiências 
 
 # BIBLIOTECAS UTILIZADAS:
 | MÓDULOS | UTILIZAÇÃO |
-------------------------
+|---------|------------|
 | Pygame | criar a interface gráfica do jogo |
-| OS | não sei|
+| OS | não sei |
 | Time | acrescentar delay |

@@ -1,8 +1,7 @@
-# Rural-Building
-Construa o seu futuro com a tecnologia.
+# Rural-Dungeon
+Derrote os monstros para conseguir se formar!
 
-Você é um estudante de TI, e sua missão principal é ajudar a construir em 4 anos, um novo prédio da área de Tecnologia da Informação.
-Evolua seu personagem durante sua jornada, consiga os materiais e experiências necessárias para finaliar o prédio.
+Lore: Um dia, um aluno que estava cansado de tanto reprovar, e com medo de ser jubilado. Decide mudar o rumo de sua jornada como estudante. Entra na dark web e procura rituais que ajudem ele a passar de cadeira. Porém, quando ele faz um dos rituais, acaba fazendo errado, e abre um portal dimensional, que faz com que as matérias da faculdade se materializem como monstros e dominam todos os andares do CEAGRI. Agora, os professores assustados com os monstros, decidem fazer greve com tempo indeterminado. Seu personagem, que ja estava perto se formar, fica muito chateado com essa situação, e decide por um fim nisso. Agora, ele vai derrotar algumas disciplinas, e fechar o portal, fazendo tudo voltar ao normal.
 
 # BIBLIOTECAS UTILIZADAS:
 | MÓDULOS | UTILIZAÇÃO |
@@ -10,3 +9,4 @@ Evolua seu personagem durante sua jornada, consiga os materiais e experiências 
 | pygame | criar a interface gráfica do jogo |
 | os | não sei |
 | time | acrescentar delay |
+
